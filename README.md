@@ -53,4 +53,4 @@ The app contains 3 main screens:
 
 ## 🗄️ Database (Hive)
 
-All data is stored locally using Hive box
+All data is stored locally using Hive box.
